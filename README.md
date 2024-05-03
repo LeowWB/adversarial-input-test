@@ -1,3 +1,6 @@
 # adversarial-input-test
 test of adversarial input creation
-python 3.10
+
+## setup
+use python 3.10. then pip install the stuff in `requirements.txt`.
+
